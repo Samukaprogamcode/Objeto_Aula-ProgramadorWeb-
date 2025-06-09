@@ -1,0 +1,100 @@
+body {
+  background-color: beige;
+}
+body header {
+  background-color: whitesmoke;
+  text-align: center;
+  box-shadow: 1px 5px 6px 2px;
+  padding-bottom: 10px;
+}
+body header h1 {
+  font-size: 50px;
+  font-family: "Courier New", Courier, monospace;
+}
+body header h1 span {
+  font-weight: bolder;
+}
+body header p1 {
+  font-weight: 580;
+  font-size: 17px;
+}
+body header p1 span {
+  background-color: rgb(255, 204, 0);
+  color: rgb(35, 35, 35);
+}
+body .corpopagina1 {
+  text-align: center;
+}
+body .corpopagina1 h2 {
+  display: inline-block;
+  font-size: 30px;
+  font-weight: 600;
+  margin-top: 20px;
+  background-color: whitesmoke;
+  padding: 7px;
+  border: solid black 2px;
+}
+body .corpopagina1 ul {
+  text-align: left;
+}
+body .corpopagina1 ul li {
+  font-size: 20px;
+}
+body .container-botao {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 90px;
+  margin-bottom: 90px;
+}
+body .container-botao a {
+  text-decoration: none;
+  color: black;
+  font-weight: bolder;
+  background-color: red;
+  padding: 15px;
+  font-size: 40px;
+  border-radius: 30px;
+}
+body .container-botao a:hover {
+  background-color: yellow;
+  font-size: 50px;
+  color: green;
+  border: solid green 4px;
+}
+body .meiofimpagina1 {
+  text-align: center;
+}
+body .meiofimpagina1 h3 {
+  display: inline-block;
+  font-size: 30px;
+  font-weight: 600;
+  margin-top: 20px;
+  background-color: whitesmoke;
+  padding: 7px;
+  border: solid black 2px;
+}
+body .meiofimpagina1 p2 {
+  text-align: center;
+  font-weight: bolder;
+  font-size: 18px;
+}
+body .meiofimpagina1 ul {
+  text-align: left;
+}
+body .meiofimpagina1 ul li {
+  font-size: 20px;
+}
+body .container-footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background-color: whitesmoke;
+  border-top: 5px solid black;
+}
+body .container-footer a {
+  margin: 10px 10px 10px 10px;
+}/*# sourceMappingURL=objetoStyle.css.map */
