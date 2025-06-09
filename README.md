@@ -1,4 +1,4 @@
-CAIXA DE INFORMAÇÕES INTERATIVA 🧠  
+#CAIXA DE INFORMAÇÕES INTERATIVA 🧠  
 Este repositório foi criado como parte de um projeto de estudo, sem fins lucrativos. O objetivo é aplicar e melhorar as habilidades adquiridas durante o aprendizado sobre **objetos em JavaScript** e **interfaces responsivas com HTML, CSS e SASS/SCSS**.
 
 📝 Descrição  
