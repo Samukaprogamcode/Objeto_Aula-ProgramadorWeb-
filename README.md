@@ -1,5 +1,8 @@
-#CAIXA DE INFORMAÇÕES INTERATIVA 🧠  
+# 🧠 Caixa de Informações Interativa
+
 Este repositório foi criado como parte de um projeto de estudo, sem fins lucrativos. O objetivo é aplicar e melhorar as habilidades adquiridas durante o aprendizado sobre **objetos em JavaScript** e **interfaces responsivas com HTML, CSS e SASS/SCSS**.
+
+---
 
 📝 Descrição  
 Este projeto foi desenvolvido para fins educacionais, com o objetivo de praticar manipulação de objetos no JavaScript e criar uma página responsiva. A aplicação exibe uma caixa de diálogo interativa após o clique em um botão, onde o usuário pode digitar palavras-chave como "Idade", "Nome" ou "Profissão" para obter informações simuladas.
